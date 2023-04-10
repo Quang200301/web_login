@@ -1,0 +1,84 @@
+.box{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.container{
+    width: 370px;
+    height: 290px;
+    box-shadow: 10px 10px 10px 10px;
+    margin-top: 15%;
+    text-align: center;
+    margin-left: 40%;
+    background:  #303030;
+    border-radius: 12px ;
+}
+form{
+    padding-top: 20px;
+    
+}
+.div_h{
+    display: flex;
+    justify-content:space-around;
+   
+   
+}
+h1{
+    font-size: 20px;
+    color: white;
+}
+div.pp{
+    display: flex;
+    margin-top: 20px;
+}
+#mkey{
+    color: rgb(15, 172, 119);
+}
+#men{
+    color: white;
+}
+#nameu{
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom:  1px solid  rgb(15, 172, 119);
+    color: white;
+}
+#mail{
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom:  1px solid  rgb(15, 172, 119);
+    color: white;
+}
+#str{
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom:  1px solid  rgb(15, 172, 119);
+    color: white;
+}
+#phonee{
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom:  1px solid  rgb(15, 172, 119);
+    color: white;
+}
+#mes{
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 1px solid  rgb(15, 172, 119);
+    border-radius: 5px ;
+    color: white;
+}
+#subm{
+    color:rgb(15, 172, 119) ;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 1px solid  rgb(15, 172, 119);
+    margin-left: 62%;
+   
+}
